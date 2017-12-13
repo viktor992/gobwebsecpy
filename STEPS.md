@@ -62,6 +62,7 @@ When there are done, they have saved their evidences. In the server where the ag
 user@user:~/invi.sible.link$ npm run exposer
 ```
 
+The campaign has to be configured in the system, I updated my campaign map in [this commit](https://github.com/vecna/invi.sible.link/commit/50a1a1de4d406a871a8c6eccc8527b63d93d40a1).
 Now, we launch the two commands which takes the evidences and do an aggregated analysis per site:
 ```
 user@user:~/invi.sible.link$ DEBUG=* bin/analyzePhantom.js --campaign gobwebsecpy --config config/analyzerDevelopment.json 
