@@ -1,6 +1,31 @@
-site,description
-http://www.caixa.gov.br/,
-http://fazenda.gov.br/,
-http://mec.gov.br/,
-http://www.saopaulo.sp.gov.br/,
-http://www.rj.gov.br,
+site, description
+http://www.caixa.gov.br/, Caixa Economica Federal 
+http://www.caixa.gov.br/programas-sociais/bolsa-familia/Paginas/default.aspx
+http://idg.receita.fazenda.gov.br/, Receita Federal
+http://salic.cultura.gov.br/
+http://mec.gov.br/, Ministerio de Educação
+http://www.fgts.gov.br/, Fondo de Garantia
+http://www.nfp.fazenda.sp.gov.br/, Nota Fiscal Paulista
+http://www.portaldoconsumidor.gov.br/procon.asp/, Procon 
+
+
+
+http://www.saopaulo.sp.gov.br/, Governo de SP
+http://www.rj.gov.br/, Governo de RJ
+https://logincidadao.rs.gov.br/login
+https://www.sefaz.rs.gov.br/sat/CertidaoSitFiscalSolic.aspx
+http://www.proconpoa.rs.gov.br/default.php?p_secao=30
+https://www.tudofacil.rs.gov.br/
+https://www.tudofacil.rs.gov.br/servico/602/inss-extrato-de-pagamento-de-beneficio
+http://www.notaparana.pr.gov.br/
+https://nfg.sefaz.rs.gov.br/Cadastro/CadastroNfg_2.aspx
+https://nfe.portoalegre.rs.gov.br/cas/login?service=https%3A%2F%2Fbeneficios.portoalegre.rs.gov.br%2Fnfs-e-beneficios%2Fsec
+http://www.cidadao.sp.gov.br/
+https://esic.cgu.gov.br/sistema/site/index.aspx?ReturnUrl=%2fsistema%2f
+https://sipa.inss.gov.br/SipaINSS/pages/consit/consitInicio.xhtml
+https://www.ipva.fazenda.sp.gov.br/IPVANET_Consulta/Consulta.aspx
+https://www.detran.mg.gov.br/veiculos/situacao-do-veiculo/consulta-a-situacao-do-veiculo
+https://www.detran.ac.gov.br/site/apps/veiculo/consulta/filtro-consulta-veiculo.jsp
+http://www.detran.pb.gov.br/index.php/consultar-veiculos.html
+https://www.jucesponline.sp.gov.br/Erro.aspx?aspxerrorpath=/SelecionaProduto.aspx
+
